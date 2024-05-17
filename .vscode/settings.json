@@ -1,7 +1,7 @@
 {
     "python.terminal.activateEnvironment": true,
-    "prompt-flow.connections.connectionProvider": "local",
+    "prompt-flow.connections.connectionProvider": "Azure AI Connections (Global)",
     "prompt-flow.connections.subscriptionId": "6d48a3b6-14ed-4d5d-b439-391e54f0589b",
-    "prompt-flow.connections.workspaceName": "buildai",
-    "prompt-flow.connections.resourceGroupName": "AI-Services"
+    "prompt-flow.connections.workspaceName": "project_demo1",
+    "prompt-flow.connections.resourceGroupName": "rg_call_center_RFP"
 }

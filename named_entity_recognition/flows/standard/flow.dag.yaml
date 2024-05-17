@@ -24,10 +24,8 @@ nodes:
     max_tokens: 64
     text: ${inputs.text}
     entity_type: ${inputs.entity_type}
-  provider: AzureOpenAI
-  connection: aoai
+  connection: aistudiocallce4434619009_aoai
   api: chat
-  module: promptflow.tools.aoai
 - name: cleansing
   type: python
   source:
